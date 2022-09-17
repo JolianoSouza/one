@@ -1,2 +1,1 @@
-# one
-primeiro repository
+# primeira_atividade
